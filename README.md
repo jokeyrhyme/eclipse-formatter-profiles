@@ -8,6 +8,13 @@ profile](http://google-styleguide.googlecode.com/svn/trunk/eclipse-cpp-google-st
 and applying minor fixes to bring it closer to their JavaScript guide (some of
 the C++ settings weren't correctly imported).
 
+## ABANDONED!
+
+I appreciate the role Eclipse played in the history of open-source development, but I no
+longer use it and I can't ever see myself returning. This project never perfectly mapped
+Google's style to Eclipse rules, and I haven't worked on this for 3 years.
+
+
 ## Installation
 
 1. open Eclipse IDE
